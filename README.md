@@ -1,6 +1,6 @@
 # Projeto_aula_criando_podcast_IA_generativa
 
-![Logo do projeto](imagens/logo.png)
+![Podcast_patrocinio_quadrinhos](https://github.com/Cricacoutinho6/Projeto_aula_criando_podcast_IA_generativa/blob/main/imagem%20radialista%20podcast.png?raw=true)
 
 Projeto Podcast Gerado por IAs
 

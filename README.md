@@ -1,5 +1,7 @@
 # Projeto_aula_criando_podcast_IA_generativa
 
+![Logo do projeto](imagens/logo.png)
+
 Projeto Podcast Gerado por IAs
 
 ℹ️ NOTA: Este é o repositório desenvolvido para entrega de um projeto para finalização da aula “Criando um Podcast com IA Generativas”

@@ -1,0 +1,1 @@
+# Projeto_aula_criando_podcast_IA_generativa
